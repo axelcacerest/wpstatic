@@ -12,7 +12,7 @@
 	<atom:link href="/author/acaceres/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 17 Apr 2024 08:50:45 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 17 Apr 2024 09:17:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,24 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
+		<title>New Post &#124; Hello</title>
+		<link>/2024/04/17/new-post-hello/</link>
+					<comments>/2024/04/17/new-post-hello/#respond</comments>
+		
+		<dc:creator><![CDATA[acaceres]]></dc:creator>
+		<pubDate>Wed, 17 Apr 2024 09:17:13 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=29</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/2024/04/17/new-post-hello/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>The load balancer is done!!</title>
 		<link>/2024/04/17/the-load-balancer-is-done/</link>
 					<comments>/2024/04/17/the-load-balancer-is-done/#respond</comments>
@@ -187,24 +205,6 @@
 										<content:encoded><![CDATA[]]></content:encoded>
 					
 					<wfw:commentRss>/2024/04/17/test3/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Test2</title>
-		<link>/2024/04/17/test2/</link>
-					<comments>/2024/04/17/test2/#respond</comments>
-		
-		<dc:creator><![CDATA[acaceres]]></dc:creator>
-		<pubDate>Wed, 17 Apr 2024 02:37:09 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=9</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>/2024/04/17/test2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
