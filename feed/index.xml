@@ -12,12 +12,30 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 17 Apr 2024 02:10:09 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 17 Apr 2024 10:39:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.2</generator>
-</channel>
+	<item>
+		<title>Hola Yurrita</title>
+		<link>/2024/04/17/hola-yurrita/</link>
+					<comments>/2024/04/17/hola-yurrita/#respond</comments>
+		
+		<dc:creator><![CDATA[acaceres]]></dc:creator>
+		<pubDate>Wed, 17 Apr 2024 10:39:36 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=45</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/2024/04/17/hola-yurrita/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>
