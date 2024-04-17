@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 17 Apr 2024 07:24:45 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 17 Apr 2024 08:50:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,24 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
+		<title>The load balancer is done!!</title>
+		<link>/2024/04/17/the-load-balancer-is-done/</link>
+					<comments>/2024/04/17/the-load-balancer-is-done/#respond</comments>
+		
+		<dc:creator><![CDATA[acaceres]]></dc:creator>
+		<pubDate>Wed, 17 Apr 2024 08:50:45 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=27</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/2024/04/17/the-load-balancer-is-done/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Testing Load Balancer</title>
 		<link>/2024/04/17/testing-load-balancer/</link>
 					<comments>/2024/04/17/testing-load-balancer/#respond</comments>
@@ -187,24 +205,6 @@
 										<content:encoded><![CDATA[]]></content:encoded>
 					
 					<wfw:commentRss>/2024/04/17/test2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Hello Altostratus!!</title>
-		<link>/2024/04/17/hello-altostratus/</link>
-					<comments>/2024/04/17/hello-altostratus/#respond</comments>
-		
-		<dc:creator><![CDATA[acaceres]]></dc:creator>
-		<pubDate>Wed, 17 Apr 2024 02:27:36 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=6</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>/2024/04/17/hello-altostratus/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
