@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for altostratus	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	Comments on: Testing CDN cache	</title>
+	<atom:link href="/2024/04/17/testing-cdn-cache/feed/" rel="self" type="application/rss+xml" />
+	<link>/2024/04/17/testing-cdn-cache/</link>
 	<description></description>
 	<lastBuildDate>Wed, 17 Apr 2024 09:34:54 +0000</lastBuildDate>
 	<sy:updatePeriod>

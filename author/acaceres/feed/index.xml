@@ -12,7 +12,7 @@
 	<atom:link href="/author/acaceres/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 17 Apr 2024 09:17:13 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 17 Apr 2024 09:34:54 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,191 +20,19 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
-		<title>New Post &#124; Hello</title>
-		<link>/2024/04/17/new-post-hello/</link>
-					<comments>/2024/04/17/new-post-hello/#respond</comments>
+		<title>Testing CDN cache</title>
+		<link>/2024/04/17/testing-cdn-cache/</link>
+					<comments>/2024/04/17/testing-cdn-cache/#respond</comments>
 		
 		<dc:creator><![CDATA[acaceres]]></dc:creator>
-		<pubDate>Wed, 17 Apr 2024 09:17:13 +0000</pubDate>
+		<pubDate>Wed, 17 Apr 2024 09:34:54 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=29</guid>
+		<guid isPermaLink="false">/?p=32</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>/2024/04/17/new-post-hello/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>The load balancer is done!!</title>
-		<link>/2024/04/17/the-load-balancer-is-done/</link>
-					<comments>/2024/04/17/the-load-balancer-is-done/#respond</comments>
-		
-		<dc:creator><![CDATA[acaceres]]></dc:creator>
-		<pubDate>Wed, 17 Apr 2024 08:50:45 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=27</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>/2024/04/17/the-load-balancer-is-done/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Testing Load Balancer</title>
-		<link>/2024/04/17/testing-load-balancer/</link>
-					<comments>/2024/04/17/testing-load-balancer/#respond</comments>
-		
-		<dc:creator><![CDATA[acaceres]]></dc:creator>
-		<pubDate>Wed, 17 Apr 2024 07:24:44 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=25</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>/2024/04/17/testing-load-balancer/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Test Bucket</title>
-		<link>/2024/04/17/test-bucket/</link>
-					<comments>/2024/04/17/test-bucket/#respond</comments>
-		
-		<dc:creator><![CDATA[acaceres]]></dc:creator>
-		<pubDate>Wed, 17 Apr 2024 04:34:33 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=23</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>/2024/04/17/test-bucket/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Static test 5</title>
-		<link>/2024/04/17/static-test-5/</link>
-					<comments>/2024/04/17/static-test-5/#respond</comments>
-		
-		<dc:creator><![CDATA[acaceres]]></dc:creator>
-		<pubDate>Wed, 17 Apr 2024 03:48:04 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=21</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>/2024/04/17/static-test-5/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Static Test 2</title>
-		<link>/2024/04/17/static-test-2/</link>
-					<comments>/2024/04/17/static-test-2/#respond</comments>
-		
-		<dc:creator><![CDATA[acaceres]]></dc:creator>
-		<pubDate>Wed, 17 Apr 2024 03:44:32 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=19</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>/2024/04/17/static-test-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Static Test</title>
-		<link>/2024/04/17/static-test/</link>
-					<comments>/2024/04/17/static-test/#respond</comments>
-		
-		<dc:creator><![CDATA[acaceres]]></dc:creator>
-		<pubDate>Wed, 17 Apr 2024 03:42:05 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=17</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>/2024/04/17/static-test/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>TestPost</title>
-		<link>/2024/04/17/testpost/</link>
-					<comments>/2024/04/17/testpost/#respond</comments>
-		
-		<dc:creator><![CDATA[acaceres]]></dc:creator>
-		<pubDate>Wed, 17 Apr 2024 03:37:58 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=15</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
-<p></p>
-
-
-
-<p></p>
-
-
-
-<p></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/2024/04/17/testpost/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Test##</title>
-		<link>/2024/04/17/test/</link>
-					<comments>/2024/04/17/test/#respond</comments>
-		
-		<dc:creator><![CDATA[acaceres]]></dc:creator>
-		<pubDate>Wed, 17 Apr 2024 03:32:19 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=13</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>/2024/04/17/test/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Test3</title>
-		<link>/2024/04/17/test3/</link>
-					<comments>/2024/04/17/test3/#respond</comments>
-		
-		<dc:creator><![CDATA[acaceres]]></dc:creator>
-		<pubDate>Wed, 17 Apr 2024 03:04:21 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=11</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>/2024/04/17/test3/feed/</wfw:commentRss>
+					<wfw:commentRss>/2024/04/17/testing-cdn-cache/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
