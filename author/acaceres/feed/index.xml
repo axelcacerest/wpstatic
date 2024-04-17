@@ -12,7 +12,7 @@
 	<atom:link href="/author/acaceres/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 17 Apr 2024 09:50:23 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 17 Apr 2024 10:14:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,73 +20,19 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
-		<title>Cache Tonto</title>
-		<link>/2024/04/17/cache-tonto/</link>
-					<comments>/2024/04/17/cache-tonto/#respond</comments>
+		<title>Commas</title>
+		<link>/2024/04/17/commas/</link>
+					<comments>/2024/04/17/commas/#respond</comments>
 		
 		<dc:creator><![CDATA[acaceres]]></dc:creator>
-		<pubDate>Wed, 17 Apr 2024 09:50:22 +0000</pubDate>
+		<pubDate>Wed, 17 Apr 2024 10:14:34 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=38</guid>
+		<guid isPermaLink="false">/?p=41</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>/2024/04/17/cache-tonto/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Hola Victor!!</title>
-		<link>/2024/04/17/hola-victor/</link>
-					<comments>/2024/04/17/hola-victor/#respond</comments>
-		
-		<dc:creator><![CDATA[acaceres]]></dc:creator>
-		<pubDate>Wed, 17 Apr 2024 09:46:55 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=36</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>/2024/04/17/hola-victor/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>This is a new post</title>
-		<link>/2024/04/17/this-is-a-new-post/</link>
-					<comments>/2024/04/17/this-is-a-new-post/#respond</comments>
-		
-		<dc:creator><![CDATA[acaceres]]></dc:creator>
-		<pubDate>Wed, 17 Apr 2024 09:36:15 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=34</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>/2024/04/17/this-is-a-new-post/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Testing CDN cache</title>
-		<link>/2024/04/17/testing-cdn-cache/</link>
-					<comments>/2024/04/17/testing-cdn-cache/#respond</comments>
-		
-		<dc:creator><![CDATA[acaceres]]></dc:creator>
-		<pubDate>Wed, 17 Apr 2024 09:34:54 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=32</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>/2024/04/17/testing-cdn-cache/feed/</wfw:commentRss>
+					<wfw:commentRss>/2024/04/17/commas/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
