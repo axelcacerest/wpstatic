@@ -12,7 +12,7 @@
 	<atom:link href="/author/acaceres/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 17 Apr 2024 04:34:33 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 17 Apr 2024 07:24:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,24 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
+		<title>Testing Load Balancer</title>
+		<link>/2024/04/17/testing-load-balancer/</link>
+					<comments>/2024/04/17/testing-load-balancer/#respond</comments>
+		
+		<dc:creator><![CDATA[acaceres]]></dc:creator>
+		<pubDate>Wed, 17 Apr 2024 07:24:44 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=25</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/2024/04/17/testing-load-balancer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Test Bucket</title>
 		<link>/2024/04/17/test-bucket/</link>
 					<comments>/2024/04/17/test-bucket/#respond</comments>
@@ -188,26 +206,6 @@
 					
 					<wfw:commentRss>/2024/04/17/hello-altostratus/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Hello world!</title>
-		<link>/2024/04/17/hello-world/</link>
-					<comments>/2024/04/17/hello-world/#comments</comments>
-		
-		<dc:creator><![CDATA[acaceres]]></dc:creator>
-		<pubDate>Wed, 17 Apr 2024 02:10:09 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
-
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/2024/04/17/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
 		
 		
 			</item>
